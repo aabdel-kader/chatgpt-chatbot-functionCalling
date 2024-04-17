@@ -28,3 +28,9 @@ Run the bot:
 npm start
 ```
 
+
+#Run Screenshot
+![functionCalling Demo](https://github.com/aabdel-kader/Apache-Spark/assets/85253766/55b13f2d-c2e7-48ad-a936-23ce23c4c3dd)
+
+
+أذ
